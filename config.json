@@ -1,5 +1,5 @@
 {
-  "min_market_cap": 100000,
+  "min_market_cap": 50000,
   "min_liquidity": 10000,
   "min_txns_1h": 30,
   "min_volume_24h": 1000,
