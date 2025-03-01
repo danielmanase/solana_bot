@@ -1,0 +1,15 @@
+{
+  "min_market_cap": 100000,
+  "min_liquidity": 10000,
+  "min_txns_1h": 30,
+  "min_volume_24h": 1000,
+  "coin_blacklist": [
+    "BlacklistedTokenAddress1",
+    "BlacklistedTokenAddress2"
+  ],
+  "dev_blacklist": [
+    "BadDevAddress1",
+    "BadDevAddress2"
+  ],
+  "safe_rugcheck_status": "Safe"
+}
